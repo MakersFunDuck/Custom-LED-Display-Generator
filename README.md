@@ -1,0 +1,2 @@
+# Custom LED Display Generator
+A Python-based tool for designing and generating custom LED displays from a single design.  The goal of this project is to make it easier for electronics hobbyists and makers to create their own custom LED displays without having to manually design the mechanical, graphical, and electronic parts separately.  You define your display and select the required MCU and LED-driving configuration, and the tool generates the files needed to build it.
