@@ -22,6 +22,9 @@ During install:
 check "Add Python to PATH"
 
 
+Check the active python version
+```python -V```
+
 
 Setup and Run
 2. Create a virtual environment
