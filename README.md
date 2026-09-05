@@ -25,33 +25,33 @@ Setup and Run
 
 Create a virtual environment named .venv:
 
-'python -m venv .venv'
+```python -m venv .venv```
 
 3. Activate the virtual environment
 PowerShell
-'.\.venv\Scripts\Activate'
+```.\.venv\Scripts\Activate```
 
 Command Prompt (cmd)
-'.\.venv\Scripts\activate.bat'
+```.\.venv\Scripts\activate.bat```
 
 4. Confirm Python and pip point to the virtual environment
-'''python -V
-python -m pip --version'''
+```python -V
+python -m pip --version```
 
 5. Upgrade pip
 
 Upgrade pip, setuptools, and wheel inside the virtual environment:
 
-'python -m pip install --upgrade pip setuptools wheel'
+```python -m pip install --upgrade pip setuptools wheel```
 
 6. Install dependencies
 
 Install the required Python packages:
 
-'python -m pip install -r requirements.txt'
+```python -m pip install -r requirements.txt```
 
 7. Start the app
-'python main.py'
+```python main.py```
 
 
 ![Preview](preview.png?raw=true "preview")
