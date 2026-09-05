@@ -35,8 +35,8 @@ Command Prompt (cmd)
 ```.\.venv\Scripts\activate.bat```
 
 4. Confirm Python and pip point to the virtual environment
-```python -V
-python -m pip --version```
+```python -V```
+```python -m pip --version```
 
 5. Upgrade pip
 
